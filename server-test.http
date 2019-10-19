@@ -1,0 +1,8 @@
+
+POST http://b74cd700.ngrok.io/users/auth
+content-type: application/json
+
+{
+    "id": "test",
+    "password": "1234"
+}
